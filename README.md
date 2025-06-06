@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-  <em>CS + Math @ BITS Pilani • Backend + AI Engineer • Builder at heart, currently in stealth 🚀</em>
+  <em>CS + Math @ BITS Pilani • Backend + AI Engineer • Upcoming AI Dev Intern • Currently in stealth 🚀</em>
 </p>
 
 <div align="center">
