@@ -118,14 +118,6 @@ Currently building something I'm incredibly excited about — a **next-gen commu
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YashGupta3003&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
----
-
 ## 🎯 Current Focus
 
 <div align="center">
